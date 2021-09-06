@@ -1,0 +1,30 @@
+img {
+    width: 15px;
+    height: 15px;
+}
+
+h1,
+h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+h3,
+h4 {
+    font-family: 'Playfair Display', serif;
+}
+
+h1 a:hover {
+    text-decoration: none;
+}
+
+.title {
+    font-size: 3.5em;
+}
+
+.world {
+    text-decoration: none;
+}
+
+.list {
+    list-style: none;
+}
